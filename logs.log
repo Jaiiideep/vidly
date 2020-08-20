@@ -1,0 +1,846 @@
+{"message":"Something failed during startup","stack":"Error: Something failed during startup\n    at Object.<anonymous> (D:\\Code\\Node\\vidly\\index.js:33:7)\n    at Module._compile (internal/modules/cjs/loader.js:1256:30)\n    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1277:10)\n    at Module.load (internal/modules/cjs/loader.js:1105:32)\n    at Function.Module._load (internal/modules/cjs/loader.js:967:14)\n    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)\n    at internal/main/run_main_module.js:17:47","level":"error","timestamp":"2020-08-16T21:15:29.560Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-08-16T21:44:18.246Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-08-16T21:44:34.475Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-16T22:07:57.288Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-16T22:08:35.555Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-08-16T22:08:35.574Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-16T22:08:50.406Z"}
+{"level":"info","message":"Connected to MongoDB...","timestamp":"2020-08-16T22:08:50.425Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-08-19T16:47:07.385Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T16:47:30.534Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-08-19T16:47:30.549Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T16:48:08.360Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-08-19T16:48:08.376Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T16:48:40.273Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-08-19T16:48:40.286Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T16:49:07.200Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T16:49:07.216Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T16:53:11.453Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T16:54:03.207Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:01:43.007Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:01:43.027Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:01:44.832Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:01:44.853Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:01:48.505Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:01:48.524Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:03:16.026Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:03:16.045Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:03:27.864Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:03:27.887Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:03:36.358Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:03:36.378Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:03:36.401Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:03:36.421Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:03:46.367Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:03:46.388Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:03:46.562Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:03:46.585Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:04:23.175Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:04:23.199Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:04:35.371Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:04:35.395Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:04:35.513Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:04:35.535Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:04:50.496Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:04:50.518Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:04:50.694Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:04:50.715Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:05:28.385Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:05:28.400Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:06:33.506Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:06:33.520Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:07:55.328Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:07:55.343Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:09:03.879Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:09:03.894Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:20:53.911Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:20:53.925Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:21:23.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:21:23.566Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:21:23.765Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:21:23.780Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:21:30.119Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:21:30.134Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:22:14.562Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:22:14.577Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:22:38.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:22:38.123Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:23:47.372Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:23:47.389Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:24:38.344Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:24:38.358Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:25:12.028Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:25:12.042Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:25:37.511Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:25:37.525Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:27:28.284Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:27:28.299Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:28:07.805Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:28:07.820Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:28:29.900Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:28:29.915Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:28:52.927Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:28:52.942Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:30:11.852Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:30:11.867Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:30:28.639Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:30:28.653Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:31:21.104Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:31:21.120Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:31:56.675Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:31:56.696Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:32:03.375Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:32:03.396Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:32:48.857Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:32:48.876Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:33:13.091Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:33:13.111Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:33:22.766Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:33:22.786Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:34:17.261Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:34:17.281Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:35:14.978Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:35:14.998Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:35:22.558Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:35:22.579Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:35:39.104Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:35:39.124Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:36:24.325Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:36:24.345Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:36:37.971Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:36:37.993Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:37:07.046Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:37:07.066Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:40:50.508Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:40:50.530Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:41:11.609Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:41:11.629Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:41:29.642Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:41:29.662Z"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:41:29.695Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:43:02.284Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:43:02.304Z"}
+{"message":"Cast to ObjectId failed for value \"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":1,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":1},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64a6d376b24308c6e439\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64a6d376b24308c6e439\",\"n\":1,\"ok\":1}\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":1,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":1},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64a6d376b24308c6e439\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64a6d376b24308c6e439\",\"n\":1,\"ok\":1}\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":1,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":1},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64a6d376b24308c6e439\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64a6d376b24308c6e439\",\"n\":1,\"ok\":1}\"","kind":"ObjectId","value":"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":1,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":1},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64a6d376b24308c6e439\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64a6d376b24308c6e439\",\"n\":1,\"ok\":1}","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:43:02.339Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:43:26.075Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:43:26.096Z"}
+{"message":"Cast to ObjectId failed for value \"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":2,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":3},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64be1710bf3604325b04\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64be1710bf3604325b04\",\"n\":1,\"ok\":1}\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":2,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":3},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64be1710bf3604325b04\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64be1710bf3604325b04\",\"n\":1,\"ok\":1}\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":2,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":3},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64be1710bf3604325b04\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64be1710bf3604325b04\",\"n\":1,\"ok\":1}\"","kind":"ObjectId","value":"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":2,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":3},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64be1710bf3604325b04\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64be1710bf3604325b04\",\"n\":1,\"ok\":1}","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:43:26.130Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:44:25.069Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:44:25.089Z"}
+{"message":"Cast to ObjectId failed for value \"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":2,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":2},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64f9a0d7001bacbb08a1\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64f9a0d7001bacbb08a1\",\"n\":1,\"ok\":1}\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":2,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":2},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64f9a0d7001bacbb08a1\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64f9a0d7001bacbb08a1\",\"n\":1,\"ok\":1}\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":2,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":2},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64f9a0d7001bacbb08a1\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64f9a0d7001bacbb08a1\",\"n\":1,\"ok\":1}\"","kind":"ObjectId","value":"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":2,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":2},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d64f9a0d7001bacbb08a1\"}],\"insertedCount\":1,\"insertedId\":\"5f3d64f9a0d7001bacbb08a1\",\"n\":1,\"ok\":1}","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:44:25.124Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:44:59.785Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:44:59.805Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:45:30.967Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:45:30.987Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:46:00.853Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:46:00.872Z"}
+{"message":"Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"[object Object]\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"[object Object]\"","kind":"ObjectId","value":"[object Object]","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:46:00.908Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:46:06.159Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:46:06.181Z"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:46:06.215Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:46:23.373Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:46:23.394Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:46:48.617Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:46:48.637Z"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:46:48.671Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:47:08.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:47:08.222Z"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:47:08.259Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:47:31.943Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:47:31.967Z"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:47:32.012Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:49:01.569Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:49:01.590Z"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:49:01.624Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:49:20.579Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:49:20.600Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:49:27.913Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:49:27.933Z"}
+{"message":"Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"undefined\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"undefined\"","kind":"ObjectId","value":"undefined","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:49:27.966Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:49:46.425Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:49:46.451Z"}
+{"message":"Cast to ObjectId failed for value \"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":1,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":1},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d663a9d8dbb3ab0666c19\"}],\"insertedCount\":1,\"insertedId\":\"5f3d663a9d8dbb3ab0666c19\",\"n\":1,\"ok\":1}\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":1,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":1},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d663a9d8dbb3ab0666c19\"}],\"insertedCount\":1,\"insertedId\":\"5f3d663a9d8dbb3ab0666c19\",\"n\":1,\"ok\":1}\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":1,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":1},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d663a9d8dbb3ab0666c19\"}],\"insertedCount\":1,\"insertedId\":\"5f3d663a9d8dbb3ab0666c19\",\"n\":1,\"ok\":1}\"","kind":"ObjectId","value":"{\"result\":{\"n\":1,\"ok\":1},\"connection\":{\"_events\":{},\"_eventsCount\":4,\"id\":1,\"address\":\"127.0.0.1:27017\",\"bson\":{},\"socketTimeout\":360000,\"monitorCommands\":false,\"closed\":false,\"destroyed\":false,\"lastIsMasterMS\":1},\"ops\":[{\"name\":\"genre1\",\"_id\":\"5f3d663a9d8dbb3ab0666c19\"}],\"insertedCount\":1,\"insertedId\":\"5f3d663a9d8dbb3ab0666c19\",\"n\":1,\"ok\":1}","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T17:49:46.488Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:50:34.490Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:50:34.510Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:50:52.139Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:50:52.162Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:51:14.391Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:51:14.412Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:51:21.441Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:51:21.465Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:52:19.460Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:52:19.480Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:52:38.537Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:52:38.557Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T17:53:47.719Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T17:53:47.741Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:03:49.665Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:03:49.685Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:03:49.722Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:05:21.648Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:05:21.669Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:05:21.708Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:05:46.273Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:05:46.292Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:05:46.331Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:06:00.748Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:06:00.774Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:06:00.816Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:06:09.611Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:06:09.632Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:06:09.681Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:06:17.607Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:06:17.627Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:06:17.670Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:09:06.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:09:06.571Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:09:06.611Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:11:39.916Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:11:39.942Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:11:39.984Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:13:24.692Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:13:24.718Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:13:24.760Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:14:09.366Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:14:09.387Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:14:09.427Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:14:22.232Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:14:22.253Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:14:22.293Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:14:42.920Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:14:42.941Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:14:42.981Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:19:56.924Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:19:56.944Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:19:56.984Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:20:52.861Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:20:52.885Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:20:52.926Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:23:20.975Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:23:20.996Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-19T18:23:21.038Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:26:16.618Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:26:16.638Z"}
+{"message":"Mongoose is not defined","stack":"ReferenceError: Mongoose is not defined\n    at D:\\Code\\Node\\vidly\\routes\\genres.js:15:3\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\Code\\Node\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:314:20)\n    at parserOnIncoming (_http_server.js:781:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)","level":"error","timestamp":"2020-08-19T18:26:16.677Z"}
+{"message":"Mongoose is not defined","stack":"ReferenceError: Mongoose is not defined\n    at D:\\Code\\Node\\vidly\\routes\\genres.js:15:3\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\Code\\Node\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:314:20)\n    at parserOnIncoming (_http_server.js:781:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)","level":"error","timestamp":"2020-08-19T18:26:16.686Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:26:40.634Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:26:40.658Z"}
+{"message":"Mongoose is not defined","stack":"ReferenceError: Mongoose is not defined\n    at D:\\Code\\Node\\vidly\\routes\\genres.js:15:3\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\Code\\Node\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:314:20)\n    at parserOnIncoming (_http_server.js:781:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)","level":"error","timestamp":"2020-08-19T18:26:40.698Z"}
+{"message":"Mongoose is not defined","stack":"ReferenceError: Mongoose is not defined\n    at D:\\Code\\Node\\vidly\\routes\\genres.js:15:3\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\Code\\Node\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:314:20)\n    at parserOnIncoming (_http_server.js:781:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)","level":"error","timestamp":"2020-08-19T18:26:40.707Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:32:38.911Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:32:38.932Z"}
+{"message":"Mongoose is not defined","stack":"ReferenceError: Mongoose is not defined\n    at D:\\Code\\Node\\vidly\\routes\\genres.js:15:3\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\Code\\Node\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:314:20)\n    at parserOnIncoming (_http_server.js:781:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)","level":"error","timestamp":"2020-08-19T18:32:38.972Z"}
+{"message":"Mongoose is not defined","stack":"ReferenceError: Mongoose is not defined\n    at D:\\Code\\Node\\vidly\\routes\\genres.js:15:3\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\Code\\Node\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:314:20)\n    at parserOnIncoming (_http_server.js:781:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)","level":"error","timestamp":"2020-08-19T18:32:38.980Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:33:26.713Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:33:26.733Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at D:\\Code\\Node\\vidly\\routes\\genres.js:15:3\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\Code\\Node\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:314:20)\n    at parserOnIncoming (_http_server.js:781:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)","level":"error","timestamp":"2020-08-19T18:33:26.774Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at D:\\Code\\Node\\vidly\\routes\\genres.js:15:3\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\Code\\Node\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:314:20)\n    at parserOnIncoming (_http_server.js:781:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)","level":"error","timestamp":"2020-08-19T18:33:26.782Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:34:35.279Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:34:35.299Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-19T18:34:44.792Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-19T18:34:44.814Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:04:42.026Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:04:42.046Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:04:47.176Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:04:47.196Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:06:15.983Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:06:16.003Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:06:34.032Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:06:34.052Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:06:44.203Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:06:44.226Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:06:59.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:06:59.887Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:07:08.382Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:07:08.403Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-20T12:07:08.444Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:07:13.448Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:07:13.467Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-20T12:07:13.508Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:07:21.958Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:07:21.978Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-20T12:07:22.019Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:07:50.765Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:07:50.790Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-20T12:07:50.830Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:08:06.372Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:08:06.398Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-20T12:08:06.437Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:08:16.001Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:08:16.021Z"}
+{"message":"Cannot read property 'params' of undefined","stack":"TypeError: Cannot read property 'params' of undefined\n    at validateObjectId (D:\\Code\\Node\\vidly\\middleware\\validateObjectId.js:4:44)\n    at D:\\Code\\Node\\vidly\\routes\\genres.js:16:3\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\Code\\Node\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:314:20)\n    at parserOnIncoming (_http_server.js:781:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)","level":"error","timestamp":"2020-08-20T12:08:16.062Z"}
+{"message":"Cannot read property 'params' of undefined","stack":"TypeError: Cannot read property 'params' of undefined\n    at validateObjectId (D:\\Code\\Node\\vidly\\middleware\\validateObjectId.js:4:44)\n    at D:\\Code\\Node\\vidly\\routes\\genres.js:16:3\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:635:15\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:260:14)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (D:\\Code\\Node\\vidly\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (D:\\Code\\Node\\vidly\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (D:\\Code\\Node\\vidly\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:314:20)\n    at parserOnIncoming (_http_server.js:781:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:119:17)","level":"error","timestamp":"2020-08-20T12:08:16.071Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:08:31.039Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:08:31.059Z"}
+{"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","stack":"CastError: Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"\n    at model.Query.exec (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4351:21)\n    at model.Query.Query.then (D:\\Code\\Node\\vidly\\node_modules\\mongoose\\lib\\query.js:4443:15)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"level":"error","timestamp":"2020-08-20T12:08:31.099Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:08:38.453Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:08:38.473Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:08:48.908Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:08:48.928Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:09:17.390Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:09:17.411Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:09:44.237Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:09:44.257Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:10:46.337Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:10:46.359Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:11:06.003Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:11:06.025Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:11:39.061Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:11:39.081Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:11:47.290Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:11:47.315Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:11:54.696Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:11:54.717Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:12:02.527Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:12:02.547Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:12:19.544Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:12:19.565Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:12:35.335Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:12:35.356Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:13:11.050Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:13:11.070Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:13:25.180Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:13:25.200Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:14:43.654Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:14:43.674Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:14:53.039Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:14:53.059Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:15:07.353Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:15:07.373Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:15:23.367Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:15:23.387Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:15:53.780Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:15:53.800Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:16:02.403Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:16:02.429Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:16:17.707Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:16:17.727Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:16:30.167Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:16:30.187Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:16:54.076Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:16:54.097Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:17:33.908Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:17:33.928Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:18:04.549Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:18:04.569Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:18:52.605Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:18:52.625Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:19:14.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:19:14.255Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:19:35.119Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:19:35.144Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:21:35.528Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:21:35.548Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:21:46.227Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:21:46.247Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:22:40.991Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:22:41.011Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:22:52.825Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:22:52.845Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:23:12.685Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:23:12.706Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:23:51.702Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:23:51.721Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:26:32.067Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:26:32.087Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:27:37.000Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:27:37.021Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:27:54.801Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:27:54.821Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:28:07.945Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:28:07.965Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:28:18.926Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:28:18.947Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:28:42.711Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:28:42.732Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:29:37.871Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:29:37.890Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:30:05.063Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:30:05.085Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:30:52.386Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:30:52.406Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:31:03.594Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:31:03.615Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:31:16.509Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:31:16.528Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:31:50.104Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:31:50.124Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:31:59.846Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:31:59.866Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:32:08.841Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:32:08.861Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:32:17.116Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:32:17.137Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:32:37.168Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:32:37.189Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:33:02.630Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:33:02.650Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:33:12.345Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:33:12.366Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:33:20.903Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:33:20.924Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:33:30.920Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:33:30.941Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:33:53.463Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:33:53.484Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:34:03.561Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:34:03.582Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:36:29.542Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:36:29.562Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:37:10.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:37:10.828Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:38:02.474Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:38:02.494Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:38:22.296Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:38:22.316Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:39:13.004Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:39:13.025Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:39:21.338Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:39:21.359Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:40:04.376Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:40:04.403Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:40:25.025Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:40:25.046Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:42:38.962Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:42:38.981Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:43:46.582Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:43:46.602Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:43:54.307Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:43:54.328Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:44:12.091Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:44:12.111Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:44:21.513Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:44:21.534Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:44:38.366Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:44:38.386Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:44:55.688Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:44:55.708Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:45:01.614Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:45:01.635Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:45:15.746Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:45:15.766Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:45:21.827Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:45:21.848Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:45:42.039Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:45:42.059Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:46:07.592Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:46:07.613Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T12:46:16.909Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T12:46:16.929Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:46:19.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:46:19.906Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:46:57.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:46:57.127Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:48:49.956Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:48:49.977Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:49:13.883Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:49:13.904Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:49:47.184Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:49:47.209Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:50:15.930Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:50:15.950Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:50:53.569Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:50:53.589Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:50:54.007Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:51:12.326Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:51:12.347Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:51:20.291Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:51:20.311Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:52:27.150Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:52:27.172Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:52:43.717Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:52:43.739Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:53:26.939Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:53:26.960Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:53:56.798Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:53:56.820Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:54:11.655Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:54:11.675Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:54:23.061Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:54:23.081Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:54:27.707Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:54:27.727Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:54:44.786Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:54:44.806Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:54:56.709Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:54:56.729Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:55:02.988Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:55:03.014Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:55:27.694Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:55:27.715Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:56:53.316Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:56:53.336Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:57:12.445Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:57:12.466Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:57:29.571Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:57:29.592Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:57:37.540Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:57:37.565Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:57:45.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:57:45.943Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:58:04.863Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:58:04.890Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:59:08.204Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:59:08.230Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:59:16.532Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:59:16.553Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T13:59:16.853Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T13:59:16.902Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:00:17.236Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:00:17.284Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:00:17.463Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:00:17.484Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:00:29.399Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:00:29.420Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:00:29.500Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:00:42.199Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:00:42.219Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:01:09.259Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:01:09.280Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:01:09.802Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:01:09.838Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:01:42.299Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:01:42.320Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:01:42.831Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:01:42.866Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:01:51.439Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:01:51.459Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:03:01.800Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:03:01.821Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:03:01.895Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:03:01.932Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:03:39.087Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:03:39.124Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:03:39.133Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:03:39.138Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:05:53.346Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:05:53.367Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:05:53.438Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:05:53.476Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:07:21.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:07:21.828Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:07:22.130Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:07:22.166Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:07:29.603Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:07:29.623Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:07:30.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:07:30.175Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:08:15.310Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:08:15.331Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:08:15.420Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:08:15.463Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:08:36.905Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:08:36.940Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T14:08:36.949Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T14:08:36.953Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:25:00.535Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:25:00.560Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:25:07.492Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:25:07.518Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:25:07.525Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:25:07.530Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:25:36.215Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:25:36.236Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:25:39.110Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:25:39.142Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:26:54.472Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:26:54.517Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:26:54.530Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:26:54.532Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:26:57.058Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:26:57.080Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:27:03.743Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:27:03.780Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:27:03.767Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:27:03.778Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:27:07.331Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:27:07.351Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:27:32.667Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:27:32.699Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:27:32.975Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:27:33.000Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:27:42.690Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:27:42.710Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:27:42.865Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:27:42.906Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:27:47.751Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:27:47.771Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:27:48.002Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:27:48.050Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:28:33.433Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:28:33.454Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:28:33.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:28:33.543Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:28:41.394Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:28:41.414Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:28:41.660Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:28:41.697Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:29:59.521Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:29:59.542Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:29:59.622Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:29:59.656Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:30:22.658Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:30:22.679Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:30:23.022Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:30:23.062Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:31:21.421Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:31:21.442Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:31:21.499Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:31:21.535Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:31:52.822Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:31:52.842Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:31:53.177Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:31:53.224Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:32:03.383Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:32:03.403Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:32:03.603Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:32:03.636Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:33:42.003Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:33:42.024Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:33:42.219Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:33:42.256Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:34:12.322Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:34:12.345Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:34:12.355Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:34:12.357Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:34:45.757Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:34:45.777Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:34:45.764Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:34:45.803Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:35:05.871Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:35:05.892Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:35:06.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:35:06.161Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:53:11.831Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:53:11.845Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:53:11.803Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:53:11.960Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:53:24.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:53:24.574Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:53:24.773Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:53:24.811Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:54:21.390Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:54:21.415Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:54:22.452Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:54:22.501Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:54:37.793Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:54:37.814Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:54:37.987Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:54:38.028Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:56:29.668Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:56:29.689Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:56:29.852Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:56:29.894Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:56:59.713Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:56:59.749Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:57:00.099Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:57:00.120Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:57:07.754Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:57:07.795Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:57:07.944Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:57:07.968Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:57:27.025Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:57:27.061Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:57:27.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:57:27.434Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:57:41.580Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:57:41.617Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:57:41.622Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:57:41.634Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:57:55.830Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:57:55.870Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:57:55.874Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:57:55.887Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:58:04.587Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:58:04.625Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:58:04.632Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:58:04.646Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:58:15.428Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:58:15.460Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:58:15.465Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:58:15.472Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:58:21.373Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:58:21.394Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:58:21.579Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:58:21.614Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:59:19.050Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:59:19.070Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T19:59:19.060Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T19:59:19.103Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:00:22.812Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:00:22.854Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:00:23.015Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:00:23.036Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:00:44.930Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:00:44.972Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:00:44.976Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:00:44.988Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:00:59.801Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:00:59.843Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:00:59.844Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:00:59.857Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:03:08.161Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:03:08.135Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:03:08.173Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:03:08.184Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:03:51.590Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:03:51.626Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:03:51.790Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:03:51.810Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:04:04.946Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:04:04.994Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:04:05.149Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:04:05.169Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:04:52.035Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:04:52.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:04:52.077Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:04:52.079Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:07:07.901Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:07:07.927Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:07:08.053Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:07:08.091Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:07:23.629Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:07:23.675Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:07:23.670Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:07:23.684Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:07:33.194Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:07:33.231Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:07:33.402Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:07:33.423Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:07:53.028Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:07:53.069Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:07:53.197Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:07:53.216Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:11:54.380Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:11:54.425Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:11:54.586Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:11:54.611Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:12:00.918Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:12:00.959Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:12:00.964Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:12:00.976Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:12:23.686Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:12:23.714Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:12:23.723Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:12:23.727Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:13:30.230Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:13:30.267Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:13:30.268Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:13:30.280Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:14:06.082Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:14:06.118Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:14:06.142Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:14:06.155Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:14:44.535Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:14:44.578Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:14:44.852Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:14:44.871Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:14:51.787Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:14:51.823Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:14:51.990Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:14:52.010Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:15:51.844Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:15:51.885Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:15:51.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:15:52.001Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:15:58.743Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:15:58.768Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:15:58.921Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:15:58.963Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:16:07.136Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:16:07.156Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:16:07.144Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:16:07.185Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:16:37.511Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:16:37.553Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:16:37.839Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:16:37.859Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:16:44.694Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:16:44.733Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:16:44.742Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:16:44.746Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:17:57.000Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:17:57.021Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:17:57.089Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:17:57.128Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:18:04.081Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:18:04.105Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:18:04.279Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:18:04.314Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:18:10.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:18:10.534Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:18:10.912Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:18:10.932Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:19:14.037Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:19:14.057Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:19:14.195Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:19:14.237Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:19:38.507Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:19:38.556Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:19:38.677Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:19:38.698Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:19:59.465Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:19:59.494Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:19:59.505Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:19:59.507Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:20:05.665Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:20:05.688Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:20:05.872Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:20:05.915Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:28:07.285Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:28:07.308Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:28:07.321Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:28:07.329Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:28:42.593Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:28:42.636Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:28:42.922Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:28:42.944Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:28:52.034Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:28:52.055Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:28:52.157Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:28:52.193Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:29:47.128Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:29:47.170Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:29:47.669Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:29:47.689Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:30:06.790Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:30:06.828Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:30:07.364Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:30:07.384Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:30:23.596Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:30:23.622Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:30:23.607Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:30:23.659Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:30:35.398Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:30:35.434Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:30:35.713Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:30:35.733Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:32:18.857Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:32:18.878Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:32:19.043Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:32:19.081Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:32:49.923Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:32:49.943Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:32:50.140Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:32:50.180Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:32:58.769Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:32:58.789Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:32:59.003Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:32:59.041Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:34:09.304Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:34:09.341Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:34:09.396Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:34:09.417Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:34:26.929Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:34:26.973Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:34:27.053Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:34:27.076Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:35:21.123Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:35:21.146Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:35:21.315Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:35:21.352Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:35:46.141Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:35:46.178Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:35:46.542Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-20T20:35:46.564Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-20T20:37:15.031Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-08-20T20:37:15.050Z"}
