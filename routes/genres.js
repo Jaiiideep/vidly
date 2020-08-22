@@ -48,10 +48,10 @@ router.post('/', auth, async (req, res) => {
 });
 
 // Update Genre
-router.put('/:id', async (req, res) => {
-  const genre = await Genre.find({ _id: req.params.id });
-  if (genre.length === 0) {
-    return res.status(400).send('Requested id was not found');
+router.put('/:id', [auth, validateObjectId], async (req, res) => {
+  const genre = await Genre.findOne({ _id: req.params.id });
+  if (!genre) {
+    return res.status(404).send('Requested id was not found');
   }
   const result = validate(req.body);
   if (result.error) {
@@ -66,10 +66,10 @@ router.put('/:id', async (req, res) => {
 });
 
 // Delete Video
-router.delete('/:id', [auth, admin], async (req, res) => {
-  const result = await Genre.findOneAndDelete({ _id: req.params.id });
-  if (result === null) {
-    return res.status(400).send('Requested id was not found');
+router.delete('/:id', [auth, admin, validateObjectId], async (req, res) => {
+  const result = await Genre.findOneAndRemove({ _id: req.params.id });
+  if (!result) {
+    return res.status(404).send('Requested id was not found');
   }
   res.send(result);
 });
