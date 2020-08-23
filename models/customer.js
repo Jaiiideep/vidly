@@ -20,16 +20,4 @@ const Customer = mongoose.model('Customer',
   })
 );
 
-// Joi Model
-function validateCustomer(body) {
-  return Joi.object({
-      name: Joi.string().min(3).required(),
-      phone: Joi.string().required(),
-      isGold: Joi.boolean()
-    })
-    .validate(body)
-  ;
-}
-
-exports.Customer = Customer;
-exports.validate = validateCustomer;
+module.exports = Customer;

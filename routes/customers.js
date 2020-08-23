@@ -1,26 +1,27 @@
 const express = require('express');
 const router = express.Router();
-const { Customer, validate } = require('../models/customer');
+const validate = require('../middleware/validate');
+const validateObjectId = require('../middleware/validateObjectId');
+const Customer = require('../models/customer');
+const Joi = require('joi');
 
 router.get('/', async (req, res) => {
   const result = await Customer.find();
   res.send(result);
 });
 
-router.get('/:id', async (req, res) => {
-  const customer = await Customer.find({ _id: req.params.id });
-  if (customer.length === 0) {
-    return res.status(404).send('Customer with the requested id was not found');
+router.get('/:id', validateObjectId, async (req, res) => {
+  const customer = await Customer
+    .findOne({
+      _id: req.params.id
+    });
+  if (!customer) {
+    return res.status(404).send('Requested id was not found');
   }
   res.send(customer);
 });
 
-router.post('/', async (req, res) => {
-  const result = validate(req.body);
-  if (!result) {
-    return res.status(400).send(result.error.details[0].message);
-  }
-
+router.post('/', validate(validateCustomer), async (req, res) => {
   const customer = new Customer({
     name: req.body.name,
     phone: req.body.phone,
@@ -65,5 +66,15 @@ router.delete('/:id', async (req, res) => {
   }
   res.send(result);
 });
+
+function validateCustomer(body) {
+  return Joi.object({
+      name: Joi.string().min(3).required(),
+      phone: Joi.string().required(),
+      isGold: Joi.boolean()
+    })
+    .validate(body)
+  ;
+}
 
 module.exports = router;

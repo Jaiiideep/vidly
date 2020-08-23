@@ -2,9 +2,9 @@ const request = require('supertest');
 const { User } = require('../../models/user');
 const { Genre } = require('../../models/genre');
 
-let server;
 
 describe('auth middleware', () => {
+  let server;
   let token;
 
   beforeEach(() => {
@@ -13,7 +13,7 @@ describe('auth middleware', () => {
   });
   afterEach(async () => {
     await Genre.remove({});
-    server.close();
+    await server.close();
   });
 
   const exec = () => {
@@ -29,7 +29,7 @@ describe('auth middleware', () => {
     expect(res.status).toBe(401);
   });
 
-  it('should return 400 if no token is invalid', async () => {
+  it('should return 400 if token is invalid', async () => {
     token = 'a';
     const res = await exec();
     expect(res.status).toBe(400);
