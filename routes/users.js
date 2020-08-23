@@ -1,7 +1,9 @@
 const auth = require('../middleware/auth');
+const validate = require('../middleware/validate');
+const Joi = require('joi');
 const express = require('express');
 const router = express.Router();
-const { User, validate } = require('../models/user');
+const { User } = require('../models/user');
 const _ = require('lodash');
 const bcrypt = require('bcrypt');
 
@@ -10,20 +12,7 @@ router.get('/me', auth, async (req, res) => {
   res.send(user);
 });
 
-router.get('/', async (req, res) => {
-  const result = await User.find().sort('name');
-  res.send(result);
-});
-
-router.get('/:id', async (req, res) => {
-  const result = await User.find({ _id: req.params.id });
-  res.send(result);
-});
-
-router.post('/', async (req, res) => {
-  const { error } = validate(req.body);
-  if (error) return res.status(400).send(error.details[0].message);
-
+router.post('/', validate(validateUser),async (req, res) => {
   let user = await User.findOne({ email: req.body.email });
   if (user) return res.status(400).send('User already registered');
 
@@ -37,20 +26,12 @@ router.post('/', async (req, res) => {
   res.header('x-auth-token', token).send(_.pick(user, ['_id', 'name', 'email']));
 });
 
-router.put('/:id', async (req, res) => {
-  const result = await User.updateOne({ _id: req.params.id }, {
-    $set: {
-      name: req.body.name,
-      email: req.body.email,
-      password: req.body.password
-    }
-  });
-  res.send(result);
-});
-
-router.delete('/:id', async (req, res) => {
-  const result = await User.remove({ _id: req.params.id });
-  res.send(result);
-});
+function validateUser(body) {
+  return Joi.object({
+    name: Joi.string().lowercase().min(5).max(255).required(),
+    email: Joi.string().min(5).max(255).required().email(),
+    password: Joi.string().min(5).max(255).required()
+  }).validate(body);
+}
 
 module.exports = router;

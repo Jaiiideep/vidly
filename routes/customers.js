@@ -39,12 +39,10 @@ router.post('/', validate(validateCustomer), async (req, res) => {
   }
 });
 
-router.put('/:id', async (req, res) => {
-  const result = validate(req.body);
-  if (!result) {
-    return res.status(400).send(result.error.details[0].message);
+router.put('/:id', [validateObjectId, validate(validateCustomer)], async (req, res) => {
+  if (req.body.isGold === undefined || req.body.isGold === null) {
+    return res.status(400).send('Update requires isGold to be set');
   }
-
   const updateResult = await Customer.findOneAndUpdate({ _id: req.params.id }, {
     $set: {
       name: req.body.name,
@@ -53,15 +51,15 @@ router.put('/:id', async (req, res) => {
     }
   }, { new: true });
 
-  if (updateResult === null) {
+  if (!updateResult) {
     return res.status(404).send('Customer with the requested id was not found');
   }
   res.send(updateResult);
 });
 
-router.delete('/:id', async (req, res) => {
+router.delete('/:id', validateObjectId, async (req, res) => {
   const result = await Customer.findOneAndDelete({ _id: req.params.id });
-  if (result === null) {
+  if (!result) {
     return res.status(404).send('Customer with the requested id was not found');
   }
   res.send(result);
@@ -69,8 +67,8 @@ router.delete('/:id', async (req, res) => {
 
 function validateCustomer(body) {
   return Joi.object({
-      name: Joi.string().min(3).required(),
-      phone: Joi.string().required(),
+      name: Joi.string().min(5).required(),
+      phone: Joi.string().min(5).required(),
       isGold: Joi.boolean()
     })
     .validate(body)

@@ -4,7 +4,6 @@ const moment = require('moment');
 const mongoose = require('mongoose');
 const request = require('supertest');
 const { Movie } = require('../../models/movie');
-const { Genre } = require('../../models/genre');
 
 describe('/api/returns', () => {
   let server;

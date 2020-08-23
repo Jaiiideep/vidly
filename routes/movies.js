@@ -1,26 +1,25 @@
 const express = require('express');
+const Joi = require('joi');
 const { Genre } = require('../models/genre');
 const router = express.Router();
-const { Movie, validate } = require('../models/movie');
+const { Movie } = require('../models/movie');
+const validateObjectId = require('../middleware/validateObjectId');
+const validate = require('../middleware/validate');
 
 router.get('/', async (req, res) => {
-  const result = await Movie.find().sort('name');
+  const result = await Movie.find().sort('title');
   res.send(result);
 });
 
-router.get('/:id', async (req, res) => {
-  const result = await Movie.find({ _id: id });
-  if (result.length === 0) {
-    return res.status(400).send('Requested id was not found');
+router.get('/:id', validateObjectId, async (req, res) => {
+  const result = await Movie.findOne({ _id: req.params.id });
+  if (!result) {
+    return res.status(404).send('Requested id was not found');
   }
   res.send(result);
 });
 
-router.post('/', async (req, res) => {
-  const { error } = validate(req.body);
-  if (error) {
-    return res.status(400).send(error.details[0].message);
-  }
+router.post('/', validate(validateMovie), async (req, res) => {
   const genre = await Genre.findOne({ _id: req.body.genreId });
   if (!genre) {
     return res.status(400).send('Invalid Genre');
@@ -44,25 +43,40 @@ router.post('/', async (req, res) => {
   }
 });
 
-router.put('/:id', async (req, res) => {
-  const { error } = validate(req.body);
-  if (error) {
-    return res.status(400).send(error.details[0].message);
-  }
-  const result = await Movie.updateOne({ _id: req.params.id }, {
+router.put('/:id', validate(validateMovie), async (req, res) => {
+  const genre = await Genre.findOne({ _id: req.body.genreId });
+  if(!genre) return res.status(400).send('Invalid Genre');
+
+  const result = await Movie.findOneAndUpdate({ _id: req.params.id }, {
     $set: {
       title: req.body.title,
-      genre: req.body.genre,
+      genre: {
+        _id: genre._id,
+        name: genre.name
+      },
       numberInStock: req.body.numberInStock,
       dailyRentalRate: req.body.dailyRentalRate
     }
-  });
+  }, { new: true });
   res.send(result);
 });
 
-router.delete('/:id', async (req, res) => {
-  const result = Movie.remove({ _id: req.params.id });
+router.delete('/:id', validateObjectId, async (req, res) => {
+  const result = await Movie.findOneAndDelete({ _id: req.params.id });
+  if (!result) {
+    return res.status(404).send('Movie with the requested id was not found');
+  }
   res.send(result);
-})
+});
+
+function validateMovie(body) {
+  return Joi.object({
+      title: Joi.string().min(5).required(),
+      genreId: Joi.objectId().required(),
+      numberInStock: Joi.number().min(0).max(255).required(),
+      dailyRentalRate: Joi.number().min(0).max(255).required()
+    })
+    .validate(body);
+}
 
 module.exports = router;

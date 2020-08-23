@@ -5,7 +5,7 @@ const bcrypt = require('bcrypt');
 const jwt = require('jsonwebtoken');
 const config = require('config');
 
-describe('/api/users', () => {
+describe('/api/auth', () => {
   let server;
   let userId;
   let userName;

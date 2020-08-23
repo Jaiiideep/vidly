@@ -6,7 +6,7 @@ const { User } = require('../../models/user');
 
 describe('/api/genres', () => {
   let server;
-  beforeEach(async () => {
+  beforeEach(() => {
     server = require('../../index');
   });
   afterEach(async () => {
@@ -99,7 +99,7 @@ describe('/api/genres', () => {
     });
   });
 
-  describe('PUT /', () => {
+  describe('PUT /:id', () => {
     let id;
     let token;
     let update;
