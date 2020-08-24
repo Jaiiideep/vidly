@@ -16566,3 +16566,179 @@
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:18:01.340Z"}
 {"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:18:02.001Z"}
 {"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:18:02.026Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:08.798Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:09.009Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:09.667Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:09.686Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:10.725Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:10.745Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:11.410Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:11.430Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:12.141Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:12.163Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:12.785Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:12.808Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:13.413Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:13.433Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:14.065Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:14.095Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:16.242Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:16.271Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:16.875Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:16.892Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:17.912Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:17.930Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:18.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:18.671Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:19.303Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:19.325Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:19.955Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:19.976Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:20.581Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:20.602Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:29:21.201Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:29:21.231Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:01.994Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:02.024Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:02.676Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:02.693Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:03.720Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:03.741Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:04.416Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:04.436Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:05.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:05.141Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:05.812Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:05.831Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:06.447Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:06.470Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:07.105Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:07.136Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:29.837Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:29.866Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:30.487Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:30.504Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:31.580Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:31.599Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:32.277Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:32.296Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:32.980Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:33.004Z"}
+{"message":"rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:32:33.089Z"}
+{"message":"rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:32:33.101Z"}
+{"message":"rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:32:33.117Z"}
+{"message":"rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:32:33.127Z"}
+{"message":"rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:32:33.140Z"}
+{"message":"rental.return is not a function","stack":"TypeError: rental.return is not a function\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:32:33.150Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:33.664Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:33.684Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:34.371Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:34.392Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:32:34.977Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:32:35.001Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:00.870Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:00.892Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:01.532Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:01.562Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:02.214Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:02.233Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:03.333Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:03.354Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:04.093Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:04.114Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:04.726Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:04.746Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:05.440Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:05.461Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:06.077Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:06.104Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:31.942Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:31.968Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:32.629Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:32.647Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:33.709Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:33.755Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:34.499Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:34.522Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:35.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:35.257Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:35.852Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:35.874Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:36.516Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:36.554Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:37.185Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:37.209Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:39.878Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:39.899Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:66:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:39.980Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:66:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:39.992Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:66:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:40.008Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:66:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:40.018Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:66:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:40.028Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:66:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:17:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:40.037Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:40.594Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:40.616Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:41.655Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:41.676Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:42.382Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:42.406Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:43.095Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:43.117Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:43.787Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:43.819Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:44.485Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:44.509Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:45.162Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:45.199Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:48.783Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:48.804Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:67:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:16:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:48.888Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:67:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:16:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:48.901Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:67:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:16:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:48.915Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:67:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:16:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:48.925Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:67:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:16:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:48.934Z"}
+{"message":"rental is not defined","stack":"ReferenceError: rental is not defined\n    at model.rentalSchema.methods.return (D:\\Code\\Node\\vidly\\models\\rental.js:67:3)\n    at D:\\Code\\Node\\vidly\\routes\\returns.js:16:3\n    at runMicrotasks (<anonymous>)\n    at processTicksAndRejections (internal/process/task_queues.js:93:5)","level":"error","timestamp":"2020-08-24T00:33:48.944Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:49.477Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:49.500Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:50.597Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:50.632Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:51.299Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:51.324Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:52.134Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:52.154Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:52.776Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:52.800Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:53.434Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:53.465Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:33:54.125Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:33:54.149Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:36:44.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:36:44.264Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:36:44.933Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:36:44.953Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:36:46.013Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:36:46.034Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:36:46.695Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:36:46.727Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:36:47.377Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:36:47.398Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:36:48.053Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:36:48.072Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:36:48.759Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:36:48.780Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:36:49.380Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:36:49.404Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:37:00.851Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:37:00.875Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:37:01.535Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:37:01.552Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:37:02.575Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:37:02.593Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:37:03.288Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:37:03.308Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:37:03.951Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:37:03.970Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:37:04.600Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:37:04.626Z"}
+{"level":"info","message":"Listening on port 3000","timestamp":"2020-08-24T00:37:05.231Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly_tests...","timestamp":"2020-08-24T00:37:05.251Z"}
