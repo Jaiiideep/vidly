@@ -11,6 +11,7 @@ const error = require('../middleware/error');
 
 module.exports = function (app) {
   app.use(express.json());
+  app.use(express.text())
 
   app.set('view engine', 'pug');
   app.set('views', './views');

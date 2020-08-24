@@ -2,7 +2,7 @@ const express = require('express');
 const router = express.Router();
 const validate = require('../middleware/validate');
 const validateObjectId = require('../middleware/validateObjectId');
-const Customer = require('../models/customer');
+const { Customer } = require('../models/customer');
 const Joi = require('joi');
 
 router.get('/', async (req, res) => {

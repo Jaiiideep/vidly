@@ -1,6 +1,6 @@
 const request = require('supertest');
 const mongoose = require('mongoose');
-const Customer = require('../../models/customer');
+const { Customer } = require('../../models/customer');
 
 describe('/api/customers', () => {
   let server;
